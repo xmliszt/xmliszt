@@ -1,11 +1,11 @@
-<h2 align='center'>Hi there! 🙌 I'm Li Yuxuan</h2>
+<h1 align='center'>Hi there! 🙌 I'm Li Yuxuan</h1>
 <div align='center'>
 <a href='https://www.linkedin.com/in/li-yuxuan/'>
 <img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/></a>
 </div>
 <hr/>
-<h4 align='center'>Aspiring to become a better Software Engineer that transforms innovative ideas into impactful applications. <br> Constantly learning new frameworks and technologies.</h4>
-<h5 align='center'>See My Portfolio 👨🏻‍💻 <a href="https://xmliszt.github.io/">HERE</a></h5>
+<h3 align='center'>Aspiring to become a better Software Engineer that transforms innovative ideas into impactful applications. <br> Constantly learning new frameworks and technologies.</h3>
+<h4 align='center'>See My Portfolio 👨🏻‍💻 <a href="https://xmliszt.github.io/">HERE</a></h4>
 
 ---
 
