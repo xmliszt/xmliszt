@@ -51,6 +51,8 @@
 <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bs" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" width="40" height="40"/> 
+<img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs.gravatar.com%2Favatar%2F48965da2c75390e8c486058c282b35cd%3Fsize%3D496%26default%3Dretro&f=1&nofb=1" alt="firebase" width="40" height="40"/> 
 <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww1-lw.xda-cdn.com%2Ffiles%2F2016%2F04%2FGoogle-CloudPlatform_VerticalLockup.png&f=1&nofb=1" alt="gcp" width="60" height="40"/> 
