@@ -35,33 +35,33 @@
 <h3 align='center'>📱 I'm familiar with 📱</h3>
 
 <div align='center'>
-<img src="https://www.flaticon.com/svg/vstatic/svg/1822/1822899.svg?token=exp=1610611339~hmac=5ee02002c0a5087a5ce00edea77c84f4" alt="python" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/1822/1822899.svg?token=exp=1610611583~hmac=a689303333ad3eee1f914693990187a6" alt="python" width="40" height="40"/>
+<img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1610611633~hmac=9c364db1efd21b4b47e3cb3ff35e6f7b" alt="js" width="40" height="40"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/919/919827.svg?token=exp=1610611655~hmac=9768f3a184d78a769e3de46d5440c08d" alt="html" width="40" height="40"/>
+<img src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1610611670~hmac=9fbf3c3dbad32fc716474b38261ab3c5" alt="css" width="40" height="40"/>
+<img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1610611716~hmac=c1a1ac60be2ff322817f53fefaef333e" alt="java" width="40" height="40"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/423/423068.svg?token=exp=1610611741~hmac=f895a42b48b30535f068f59e151e5a11" alt="csharp" width="40" height="40"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/1922/1922643.svg?token=exp=1610611771~hmac=12a4abd20d8d0a754276da5fa06e1a76" alt="cpp" width="40" height="40"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/3600/3600912.svg?token=exp=1610611771~hmac=f6331c4a6f2d7ac2e115db3302031e15" alt="c" width="40" height="40"/> 
 </div>
 
 <div align='center'>
-<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bs" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs.gravatar.com%2Favatar%2F48965da2c75390e8c486058c282b35cd%3Fsize%3D496%26default%3Dretro&f=1&nofb=1" alt="firebase" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww1-lw.xda-cdn.com%2Ffiles%2F2016%2F04%2FGoogle-CloudPlatform_VerticalLockup.png&f=1&nofb=1" alt="gcp" width="60" height="40"/> 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.adroitlogic.com%2Fstatic%2Fassets%2Fimages%2Ficons%2Fips-kubernetes.png&f=1&nofb=1" alt="kubernetes" width="50" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/>
+<img src="https://www.flaticon.com/svg/vstatic/svg/3334/3334886.svg?token=exp=1610611818~hmac=ed5b32704a3245928670bd559a744c14" alt="react" width="40" height="40"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/1348/1348052.svg?token=exp=1610611843~hmac=c9ac060cd3b18a4a5003e28353b2a890" alt="bs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/1514/1514206.svg?token=exp=1610611999~hmac=e64916b44c0d00f2545658b8c515e58d" alt="jest" width="40" height="40"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/518/518705.svg?token=exp=1610612026~hmac=b14ba08e4803041641acbc9d1b199e13" alt="android" width="40" height="40"/> 
+<img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/lockup.png" alt="firebase" width="40" height="40"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/919/919853.svg?token=exp=1610612077~hmac=3c360607835448c18afb39242b5ae602" alt="docker" width="40" height="40"/> 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2020%2F10%2Fgcp.png&f=1&nofb=1" alt="gcp" width="60" height="40"/> 
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.cbronline.com%2Fwp-content%2Fuploads%2F2017%2F05%2Fkubernetes-logo-e1493896901532.png&f=1&nofb=1" alt="kubernetes" width="50" height="40"/> 
 </div>
 
 <div align='center'>
-<img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40" height="40"/>
 </div>
 
 <div align='center'>
