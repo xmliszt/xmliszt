@@ -35,7 +35,7 @@
 <h3 align='center'>📱 I'm familiar with 📱</h3>
 
 <div align='center'>
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://www.flaticon.com/svg/vstatic/svg/1822/1822899.svg?token=exp=1610611339~hmac=5ee02002c0a5087a5ce00edea77c84f4" alt="python" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> 
 <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
