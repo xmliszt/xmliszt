@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 I’m currently learning [ReactJS](https://reactjs.org/)
+- 🌱 I’m currently learning [Go](https://golang.org/)
 - 👯 I’m looking to collaborate on **developing useful web applications**
 - 🎹 In my free time, I write songs: [Access my YouTube channel here](https://www.youtube.com/channel/UCAAVhCgvUfiamjQWyErtBDA)
 - 📫 How to reach me: [xmliszt@gmail.com](mailto:xmliszt@gmail.com)
