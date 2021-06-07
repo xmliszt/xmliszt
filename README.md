@@ -34,11 +34,11 @@
 
 <h3 align='center'>🎮 Unity Game Journey🎮</h3>
 
--🤠 **Stop The Stampede**: [🔮 click me <-](https://play.unity.com/mg/other/stop-the-stampede)
--🏃‍ **Run For GPA!**: parkour game [🔮 click me <-](https://play.unity.com/mg/other/run-for-gpa)
--♾ **Mario Infinity**: auto generate level [🔮 click me <-](https://xmliszt.itch.io/mario-infinity)
--🗼 **Mario Defense**: inspired by angry bird [🔮 click me <-](https://xmliszt.itch.io/mario-defense)
-- **Mario Ping Pong**: experiment with shaders & effects [🔮 click me <-](https://xmliszt.itch.io/mario-ping-pong)
+- 🤠 **Stop The Stampede**: [🔮 click me <-](https://play.unity.com/mg/other/stop-the-stampede)
+- 🏃‍ **Run For GPA!**: parkour game [🔮 click me <-](https://play.unity.com/mg/other/run-for-gpa)
+- ♾ **Mario Infinity**: auto generate level [🔮 click me <-](https://xmliszt.itch.io/mario-infinity)
+- 🗼 **Mario Defense**: inspired by angry bird [🔮 click me <-](https://xmliszt.itch.io/mario-defense)
+- 🎭 **Mario Ping Pong**: experiment with shaders & effects [🔮 click me <-](https://xmliszt.itch.io/mario-ping-pong)
 
 ---
 
