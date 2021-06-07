@@ -89,4 +89,3 @@
 
 ---
 <p align="middle">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xmliszt&show_icons=true&theme=onedark" alt="xmliszt" /></p>
-<p align="middle">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xmliszt&theme=onedark" alt="xmliszt" /></p>
