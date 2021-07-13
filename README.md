@@ -18,6 +18,7 @@
 
 <h3 align='center'>🕸 Web Applications Gallery 🕸</h3>
 
+- 📅 **ergo**: A task manager with reward system [🔮 click me <-](https://xmliszt.github.io/ergo/)
 - ❤️ **Portfolio Website**: About me [🔮 click me <-](https://xmliszt.github.io/)
 - 📝 **Resume Generator**: Auto generate your resume! [🔮 click me <-](https://xmliszt.github.io/resume-generator/#/)
   - Test Account: 👤: test@mail.com 🔑: 123456
@@ -39,7 +40,7 @@
 - ♾ **Mario Infinity**: auto generate level [🔮 click me <-](https://xmliszt.itch.io/mario-infinity)
 - 🗼 **Mario Defense**: inspired by angry bird [🔮 click me <-](https://xmliszt.itch.io/mario-defense)
 - 🎭 **Mario Ping Pong**: experiment with shaders & effects [🔮 click me <-](https://xmliszt.itch.io/mario-ping-pong)
-
+- 👾 **Mario Final**: re-create classic Mario levels [🔮 click me <-](https://xmliszt.itch.io/mario-final)
 ---
 
 <h3 align='center'>📱 I'm familiar with 📱</h3>
