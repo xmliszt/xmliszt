@@ -18,7 +18,10 @@
 
 <h3 align='center'>🕸 Web Applications Gallery 🕸</h3>
 
-- 📅 **ergo**: A task manager with reward system [🔮 click me <-](https://xmliszt.github.io/ergo/)
+|Name|Description|Link|Remarks|
+|:--:|:----------|:--:|:------|
+|📅 **ergo**|A task manager with reward system|[🔮 click me <-](https://xmliszt.github.io/ergo/)|
+
 - ❤️ **Portfolio Website**: About me [🔮 click me <-](https://xmliszt.github.io/)
 - 📝 **Resume Generator**: Auto generate your resume! [🔮 click me <-](https://xmliszt.github.io/resume-generator/#/)
   - Test Account: 👤: test@mail.com 🔑: 123456
