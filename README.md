@@ -20,19 +20,14 @@
 
 |Name|Description|Link|Remarks|
 |:--:|:----------|:--:|:------|
-|📅 **ergo**|A task manager with reward system|[🔮 click me <-](https://xmliszt.github.io/ergo/)|
-
-- ❤️ **Portfolio Website**: About me [🔮 click me <-](https://xmliszt.github.io/)
-- 📝 **Resume Generator**: Auto generate your resume! [🔮 click me <-](https://xmliszt.github.io/resume-generator/#/)
-  - Test Account: 👤: test@mail.com 🔑: 123456
-- 🧠 **Memorizer**: Web Flashcard for Memorization [🔮 click me <-](https://xmliszt.github.io/memorizer/#/)
-- 💬 **Text Cook**: Translate your text, image, audio [🔮 click me <-](https://xmliszt.github.io/text-cook/#/)
-  - This is a hackathon entry from codeBOSS 2020 Bank of Singapore. Currently it is using Google Cloud free account, limited to 2000 translation requests per month.
-- 🎮 **Star Collector**: A exprimental web game with live ranking [🔮 click me <-](https://xmliszt.github.io/the-town/game.html)
-- 🏦 **Alpha Holding Bank Chatbot Simulation** [🔮 click me <-](https://alpha-holding.herokuapp.com/)
-  - Click on the bottom-right corner chat bubble!
-- ⚙️ **IEEE SUTD Student Branch Inventory Loaning System**: [🔮 click me <-](https://ieeesutdweb.herokuapp.com/)
-  - You need to have an IEEE club membership to login!
+|📅 **ergo**|A task manager with reward system|[🔮 click me <-](https://xmliszt.github.io/ergo/)||
+|❤️ **Portfolio Website**|About me|[🔮 click me <-](https://xmliszt.github.io/)||
+|📝 **Resume Generator**|Auto generate your resume!|[🔮 click me <-](https://xmliszt.github.io/resume-generator/#/)|Test Account: 👤: test@mail.com 🔑: 123456|
+|🧠 **Memorizer**:|Web Flashcard for Memorization|[🔮 click me <-](https://xmliszt.github.io/memorizer/#/)||
+|💬 **Text Cook**|Translate your text, image, audio|[🔮 click me <-](https://xmliszt.github.io/text-cook/#/)|This is a hackathon entry from codeBOSS 2020 Bank of Singapore. Currently it is using Google Cloud free account, limited to 2000 translation requests per month.|
+|🎮 **Star Collector**|A exprimental web game with live ranking|[🔮 click me <-](https://xmliszt.github.io/the-town/game.html)||
+|🏦 **Alpha Holding Bank Chatbot Simulation**|A course project working with [Alcatel-Lucent Rainbow API](https://www.al-enterprise.com/en/rainbow/developers) to create a demo banking web application with agents chatting functionality|[🔮 click me <-](https://alpha-holding.herokuapp.com/)|Click on the bottom-right corner chat bubble!|
+|⚙️ **IEEE SUTD Student Branch Inventory Loaning System**|An inventory loaning web application for IEEE SUTD Student Branch|[🔮 click me <-](https://ieeesutdweb.herokuapp.com/)|You need to have a SUTD IEEE club membership to login!|
 
 ---
 
