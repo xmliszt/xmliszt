@@ -20,6 +20,7 @@
 
 |Name|Description|Link|Remarks|
 |:--:|:----------|:--:|:------|
+|💦 **Drink More Water**|A gamified web app to encourage you to drink more water!|[🔮 click me <-](https://drinkmorewater.vercel.app)|It is also a test site for exploring potential vulnerability! Try it out yourself ;)|
 |📅 **ergo**|A task manager with reward system|[🔮 click me <-](https://xmliszt.github.io/ergo/)||
 |❤️ **Portfolio Website**|About me|[🔮 click me <-](https://xmliszt.github.io/)||
 |📝 **Resume Generator**|Auto generate your resume!|[🔮 click me <-](https://xmliszt.github.io/resume-generator/#/)|Test Account: 👤: test@mail.com 🔑: 123456|
