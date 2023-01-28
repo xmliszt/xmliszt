@@ -1,6 +1,52 @@
 <h1 align='center'>Hi there! 🙌 I'm Li Yuxuan</h1>
 <br />
 <div align='center'>
+<span>
+<a
+  href="https://github.com/xmliszt"
+  aria-label="Visit my GitHub Profile Here"
+  ><img
+    src="https://img.shields.io/badge/-My%20GitHub-black?logo=github"
+    alt="My GitHub Chip"
+/></a>
+<a
+  href="https://www.linkedin.com/in/li-yuxuan/"
+  aria-label="Visit my LinkedIn Profile Here"
+  ><img
+    src="https://img.shields.io/badge/-My%20LinkedIn-black?logo=linkedin"
+    alt="My LinkedIn Chip"
+/></a>
+<a
+  href="https://www.reddit.com/user/bubbling-fish"
+  aria-label="Visit my Reddit Profile Here"
+  ><img
+    src="https://img.shields.io/badge/-u%2Fbubbling--fish-black?logo=reddit"
+    alt="My Reddit Chip"
+/></a>
+<a
+  href="https://twitter.com/xmliszt"
+  aria-label="Visit my Twitter Profile Here"
+  ><img
+    src="https://img.shields.io/badge/-My%20Twitter-black?logo=twitter"
+    alt="My Twitter Chip"
+/></a>
+<a
+  href="https://www.facebook.com/liszt.li.7"
+  aria-label="Visit my Facebook Profile Here"
+  ><img
+    src="https://img.shields.io/badge/-My%20Facebook-black?logo=facebook"
+    alt="My Facebook Chip"
+/></a>
+<a
+  href="https://www.instagram.com/xmliszt/"
+  aria-label="Visit my Instagram Profile Here"
+  ><img
+    src="https://img.shields.io/badge/-My%20Instagram-black?logo=instagram"
+    alt="My Instagram Chip"
+/></a>
+</span>
+</div>
+<div align='center'>
 <a href="https://github.com/xmliszt">
     <img src="https://github-stats-alpha.vercel.app/api?username=xmliszt&cc=22272e&tc=23ba5d&ic=fff">
 </a>
