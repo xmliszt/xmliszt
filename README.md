@@ -5,6 +5,7 @@
 <a
   href="https://github.com/xmliszt"
   aria-label="Visit my GitHub Profile Here"
+  target="_blank" 
   ><img
     src="https://img.shields.io/badge/-My%20GitHub-black?logo=github"
     alt="My GitHub Chip"
@@ -12,6 +13,7 @@
 <a
   href="https://www.linkedin.com/in/li-yuxuan/"
   aria-label="Visit my LinkedIn Profile Here"
+  target="_blank" 
   ><img
     src="https://img.shields.io/badge/-My%20LinkedIn-black?logo=linkedin"
     alt="My LinkedIn Chip"
@@ -19,6 +21,7 @@
 <a
   href="https://www.reddit.com/user/bubbling-fish"
   aria-label="Visit my Reddit Profile Here"
+  target="_blank" 
   ><img
     src="https://img.shields.io/badge/-u%2Fbubbling--fish-black?logo=reddit"
     alt="My Reddit Chip"
@@ -26,6 +29,7 @@
 <a
   href="https://twitter.com/xmliszt"
   aria-label="Visit my Twitter Profile Here"
+  target="_blank" 
   ><img
     src="https://img.shields.io/badge/-My%20Twitter-black?logo=twitter"
     alt="My Twitter Chip"
@@ -33,6 +37,7 @@
 <a
   href="https://www.facebook.com/liszt.li.7"
   aria-label="Visit my Facebook Profile Here"
+  target="_blank" 
   ><img
     src="https://img.shields.io/badge/-My%20Facebook-black?logo=facebook"
     alt="My Facebook Chip"
@@ -40,6 +45,7 @@
 <a
   href="https://www.instagram.com/xmliszt/"
   aria-label="Visit my Instagram Profile Here"
+  target="_blank" 
   ><img
     src="https://img.shields.io/badge/-My%20Instagram-black?logo=instagram"
     alt="My Instagram Chip"
@@ -47,6 +53,7 @@
   <a
   href="https://www.npmjs.com/~xmliszt"
   aria-label="Visit my NPM Packages Profile Here"
+    target="_blank" 
   ><img
     src="https://img.shields.io/badge/-NPM%20packages-white?logo=npm"
     alt="My NPM Packages Chip"
@@ -54,7 +61,7 @@
 </span>
 </div>
 <div align='center'>
-<a href="https://github.com/xmliszt">
+<a href="https://github.com/xmliszt" target="_blank" >
     <img src="https://github-stats-alpha.vercel.app/api?username=xmliszt&cc=22272e&tc=23ba5d&ic=fff">
 </a>
 </div>
@@ -78,13 +85,7 @@
 
 |                           Name                           | Description                                                                                                                                                                                 |                             Link                              | Remarks                                                                                                                                                          |
 | :------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a
-  href="https://www.npmjs.com/package/create-easy-next13-template-ts"
-  aria-label="Visit my Next13 Template npm package here"
-  ><img
-    src="[https://img.shields.io/badge/-NPM%20packages-white?logo=npm](https://img.shields.io/badge/-NextJS%20Template-blue?logo=next.js)"
-    alt="My Next13 Template npm package"
-/></a> Next13 Easy TypeScript Template | <ul><li>A TypeScript Next 13 (App Router) template with TailwindCSS and ESLint supported by default.</li><li>Optional UI library Chakra UI to be installed.</li><li>Progressive Web App (PWA) enabled (with next-pwa)</li><li>Search Engine Optimization (SEO) is included (with NextJS Metadata)</li><li>Optional third-party libraries such as: React Icons, NextAuth.js, Lodash, Moment.js to be installed.</li><li>Optional Testing frameworks to be installed: Jest, Cypress, Playwright</li><li>Optional markdown files support, with React-Markdown</li><li>Optional linter(s) and formatter(s) to be installed: Stylelint, Prettier</li><li>Husky can be installed for adding git hooks to your project</li><li>MIT License</li></ul> | `npx create-easy-next13-template-ts` | Simply run one-line command `npx create-easy-next13-template-ts` to set up your Next13 (App Router) project! |
+| <a href="https://www.npmjs.com/package/create-easy-next13-template-ts" target="_blank" aria-label="Visit my Next13 Template npm package here"><img src="https://img.shields.io/badge/-NextJS%20Template-blue?logo=next.js" alt="My Next13 Template npm package"/></a> Next13 Easy TypeScript Template | <ul><li>A TypeScript Next 13 (App Router) template with TailwindCSS and ESLint supported by default.</li><li>Optional UI library Chakra UI to be installed.</li><li>Progressive Web App (PWA) enabled (with next-pwa)</li><li>Search Engine Optimization (SEO) is included (with NextJS Metadata)</li><li>Optional third-party libraries such as: React Icons, NextAuth.js, Lodash, Moment.js to be installed.</li><li>Optional Testing frameworks to be installed: Jest, Cypress, Playwright</li><li>Optional markdown files support, with React-Markdown</li><li>Optional linter(s) and formatter(s) to be installed: Stylelint, Prettier</li><li>Husky can be installed for adding git hooks to your project</li><li>MIT License</li></ul> | `npx create-easy-next13-template-ts` | Simply run one-line command `npx create-easy-next13-template-ts` to set up your Next13 (App Router) project! |
 
 ---
 
