@@ -74,6 +74,22 @@
 
 <br />
 
+<h1 align='center'>🛠️ Packages 🛠️</h1>
+|                           Name                           | Description                                                                                                                                                                                 |                             Link                              | Remarks                                                                                                                                                          |
+| :------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![NextJS Template](https://img.shields.io/badge/-NextJS%20Template-blue?logo=next.js) Next13 Easy TypeScript Template | - A TypeScript Next 13 (App Router) template with TailwindCSS and ESLint supported by default.
+- Optional UI library Chakra UI to be installed.
+- Progressive Web App (PWA) enabled (with next-pwa)
+- Search Engine Optimization (SEO) is included (with NextJS Metadata)
+- Optional third-party libraries such as: React Icons, NextAuth.js, Lodash, Moment.js to be installed.
+- Optional Testing frameworks to be installed: Jest, Cypress, Playwright
+- Optional markdown files support, with React-Markdown
+- Optional linter(s) and formatter(s) to be installed: Stylelint, Prettier
+- Husky can be installed for adding git hooks to your project
+- MIT License | `npx create-easy-next13-template-ts` | Simply run one-line command `npx create-easy-next13-template-ts` to set up your Next13 (App Router) project! |
+
+---
+
 <h1 align='center'>🕸 Web Applications Gallery 🕸</h1>
 
 |                           Name                           | Description                                                                                                                                                                                 |                             Link                              | Remarks                                                                                                                                                          |
