@@ -45,10 +45,10 @@
     alt="My Instagram Chip"
 /></a>
   <a
-  href="[https://www.instagram.com/xmliszt/](https://www.npmjs.com/~xmliszt)"
+  href="https://www.npmjs.com/~xmliszt"
   aria-label="Visit my NPM Packages Profile Here"
   ><img
-    src="https://img.shields.io/badge/-NPM%20packages-white?logo=npm&link=https%3A%2F%2Fwww.npmjs.com%2F~xmliszt"
+    src="https://img.shields.io/badge/-NPM%20packages-white?logo=npm"
     alt="My NPM Packages Chip"
 /></a>
 </span>
