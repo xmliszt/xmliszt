@@ -66,7 +66,7 @@
 </a>
 </div>
 <hr/>
-<h3 align='center'>Aspiring to become a better Software Engineer that transforms innovative ideas into impactful applications. <br> Constantly learning new frameworks and technologies.</h3>
+<h3 align='center'>Hello! I'm Li Yuxuan, a Software Engineer with a keen interest in Education Technology (EdTech). My goal is to reimagine the learning process, making it both effective and enjoyable for students worldwide. Through projects like Taboo AI and a background in web and mobile development, I'm committed to creating seamless and engaging educational experiences. Let's work together to make learning an inspiring journey! 📚💡🌟</h3>
 <h4 align='center'>See My Portfolio Website 👨🏻‍💻 <a href="https://xmliszt.github.io/">HERE</a></h4>
 
 ---
