@@ -77,7 +77,7 @@
 - 👯 Open to collaborating on innovative projects and ideas
 - 🎹 In my free time, I compose music. ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAAVhCgvUfiamjQWyErtBDA?style=social) [Access my YouTube channel here](https://www.youtube.com/channel/UCAAVhCgvUfiamjQWyErtBDA)
 - 📫 How to reach me: [xmliszt@gmail.com](mailto:xmliszt@gmail.com)
-- 💻 working on personal project: [Taboo AI](https://taboo-ai.vercel.app/) ![13,300 users, 70,000+ page views](https://img.shields.io/badge/_-13%2C300%20users%20%2F%2070%2C000%2B%20page%20views-white?logo=fireship&logoColor=orange&labelColor=gray&link=https%3A%2F%2Ftaboo-ai.vercel.app)
+- 💻 working on personal project: [Taboo AI](https://taboo-ai.vercel.app/) ![13,300 users, 70,000+ page views](https://img.shields.io/badge/_-13%2C300%20users%20%2F%2080%2C000%2B%20page%20views-white?logo=fireship&logoColor=orange&labelColor=gray&link=https%3A%2F%2Ftaboo-ai.vercel.app)
 
 
 ---
