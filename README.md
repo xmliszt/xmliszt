@@ -10,6 +10,13 @@
     src="https://img.shields.io/badge/-My%20GitHub-black?logo=github"
     alt="My GitHub Chip"
 /></a>
+<a href="https://read.cv/liyuxuan"
+  aria-label="Visit my read.cv profile here"
+  target="_blank"
+  ><img 
+    src="https://img.shields.io/badge/-read.cv-black?logo=read.cv"
+    alt="read.cv chip"
+/></a>
 <a
   href="https://www.linkedin.com/in/li-yuxuan/"
   aria-label="Visit my LinkedIn Profile Here"
