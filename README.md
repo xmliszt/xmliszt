@@ -74,18 +74,28 @@
 </div>
 <hr/>
 
-<h3 align='center'>Hello! I'm Li Yuxuan, a Software Engineer with a keen interest in Education Technology (EdTech). My goal is to reimagine the learning process, making it both effective and enjoyable for students. Through projects like Taboo AI and a background in web and mobile development, I'm committed to creating seamless and engaging educational experiences. Let's work together to make learning an inspiring journey! 📚💡🌟</h3>
+<h3 align='center'>Hello! I'm Li Yuxuan, a software engineer with a keen interest in Education Technology (EdTech). My goal is to reimagine the learning process, making it both effective and enjoyable for students. Through projects like <a href='https://taboo-ai.vercel.app' target='_blank'>Taboo AI</a> and a background in web and mobile development, I'm committed to creating seamless and engaging educational experiences. Let's work together to make learning a better journey! 📚💡🌟</h3>
 
-<h4 align='center'>See My Portfolio Website 👨🏻‍💻 <a href="https://liyuxuan.dev/">HERE</a></h4>
+<div align='center'>
+  <div>
+    <a href='https://liyuxuan.dev' target='_blank'>
+      <img style='border-radius: "16px"' width='600px' src='https://tvstbbuidvwgelgidaqy.supabase.co/storage/v1/object/public/profile/og.webp' />
+    </a>
+  </div>
+  <div>
+    <a href='http://liyuxuan.dev' target='_blank'>
+      Welcome to my digital playground!
+    </a>
+  </div>
+</div>
 
 ---
 
-- 🌱 Currently working at Mobbin!
+- 🌱 Currently working at [Mobbin](https://mobbin.com)!
 - 👯 Open to collaborating on innovative projects and ideas
 - 🎹 In my free time, I read books, play games, ideate and code it out.
 - 📫 How to reach me: [me@liyuxuan.dev](mailto:me@liyuxuan.dev)
-- 💻 working on EdTech AI project: [Taboo AI](https://taboo-ai.vercel.app/) ![90,000+ page views](https://img.shields.io/badge/_-90%2C000%2B%20page%20views-white?logo=fireship&logoColor=orange&labelColor=gray&link=https%3A%2F%2Ftaboo-ai.vercel.app)
-
+- 💻 working on EdTech AI project: [Taboo AI](https://taboo-ai.vercel.app/)
 ---
 
 <br />
@@ -102,10 +112,10 @@
 
 |                                                                                                                Name                                                                                                                 | Description                                                                                                                                                                                 |                           Link                           | Remarks                                                                                                                                                          |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🤖 **Taboo AI** ![90,000+ page views](https://img.shields.io/badge/_-90%2C000%2B%20page%20views-white?logo=fireship&logoColor=orange&labelColor=gray&link=https%3A%2F%2Ftaboo-ai.vercel.app) | EdTech AI game where you play the Game of Taboo against AI to practice your English                                                                           |       [🔮 portal 👈🏻](https://taboo-ai.vercel.app/)       | Constantly developing and maintaining it to make it better                                                           |
+|                                                                                                      🧑🏻 **Personal website**                                                                                                       | My little digital playground                                                                                                                                                                                    |          [🔮 portal 👈🏻](https://liyuxuan.dev/)           |                                                                                                                                                                  |
+| 🤖 **Taboo AI** | EdTech AI game where you play the Game of Taboo against AI to practice your English                                                                           |       [🔮 portal 👈🏻](https://taboo-ai.vercel.app/)       |                                                           |
 |                                                                                                       💦 **Drink More Water**                                                                                                       | A gamified web app to encourage you to drink more water!                                                                                                                                    |    [🔮 portal 👈🏻](https://drinkmorewater.vercel.app)     |                                                                                                                                                                  |
 |                                                                                                             📅 **ergo**                                                                                                             | A task manager with reward system                                                                                                                                                           |        [🔮 portal 👈🏻](https://liyuxuan.dev/ergo/)        |                                                                                                                                                                  |
-|                                                                                                      ❤️ **Portfolio Website**                                                                                                       | About me                                                                                                                                                                                    |          [🔮 portal 👈🏻](https://liyuxuan.dev/)           |                                                                                                                                                                  |
 |                                                                                                       📝 **Resume Generator**                                                                                                       | Auto generate your resume!                                                                                                                                                                  | [🔮 portal 👈🏻](https://liyuxuan.dev/resume-generator/#/) | Test Account: 👤: test@mail.com 🔑: 123456                                                                                                                       |
 |                                                                                                          🧠 **Memorizer**:                                                                                                          | Web Flashcard for Memorization                                                                                                                                                              |    [🔮 portal 👈🏻](https://liyuxuan.dev/memorizer/#/)     |                                                                                                                                                                  |
 |                                                                                                          💬 **Text Cook**                                                                                                           | Translate your text, image, audio                                                                                                                                                           |    [🔮 portal 👈🏻](https://liyuxuan.dev/text-cook/#/)     | This is a hackathon entry from codeBOSS 2020 Bank of Singapore. Currently it is using Google Cloud free account, limited to 2000 translation requests per month. |
