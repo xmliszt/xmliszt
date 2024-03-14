@@ -66,15 +66,23 @@
     alt="My NPM Packages Chip"
 /></a>
 </span>
+<br />
+<br />
 </div>
 <div align='center'>
 <a href="https://github.com/xmliszt" target="_blank" >
     <img src="https://github-stats-alpha.vercel.app/api?username=xmliszt&cc=22272e&tc=23ba5d&ic=fff">
 </a>
 </div>
+
+<br />
+<div align='center'>
+  <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxmliszt&label=Visitors&countColor=%23000000' />
+</div>
+
 <hr/>
 
-<h3 align='center'>Hello! I'm Li Yuxuan, a software engineer with a keen interest in Education Technology (EdTech). My goal is to reimagine the learning process, making it both effective and enjoyable for students. Through projects like <a href='https://taboo-ai.vercel.app' target='_blank'>Taboo AI</a> and a background in web and mobile development, I'm committed to creating seamless and engaging educational experiences. Let's work together to make learning a better journey! 📚💡🌟</h3>
+<p align='center'>Hello! I'm Li Yuxuan, a software engineer who loves creation & design. Currently working on EdTech stuff like <a href='https://taboo-ai.vercel.app' target='_blank'>Taboo AI</a></p>
 
 <div align='center'>
   <div>
@@ -93,9 +101,9 @@
 
 - 🌱 Currently working at [Mobbin](https://mobbin.com)!
 - 👯 Open to collaborating on innovative projects and ideas
-- 🎹 In my free time, I read books, play games, ideate and code it out.
-- 📫 How to reach me: [me@liyuxuan.dev](mailto:me@liyuxuan.dev)
-- 💻 working on EdTech AI project: [Taboo AI](https://taboo-ai.vercel.app/)
+- 🎹 In my free time, I read books, watch films, play music.
+- 📫 Chat with me: [me@liyuxuan.dev](mailto:me@liyuxuan.dev)
+- 💻 Working on EdTech project: [Taboo AI](https://taboo-ai.vercel.app/)
 ---
 
 <br />
