@@ -82,7 +82,7 @@
 
 <hr/>
 
-<p align='center'>Hello! I'm Li Yuxuan, a software engineer who loves creation & design. Currently working on EdTech stuff like <a href='https://taboo-ai.vercel.app' target='_blank'>Taboo AI</a></p>
+<p align='center'>Hello! I'm Li Yuxuan, a software engineer who loves creation & design. Currently working on EdTech stuff like <a href='https://taboo-ai.com' target='_blank'>Taboo AI</a></p>
 
 <div align='center'>
   <div>
@@ -103,7 +103,7 @@
 - 👯 Open to collaborating on innovative projects and ideas
 - 🎹 In my free time, I read books, watch films, play music.
 - 📫 Chat with me: [me@liyuxuan.dev](mailto:me@liyuxuan.dev)
-- 💻 Working on EdTech project: [Taboo AI](https://taboo-ai.vercel.app/)
+- 💻 Working on EdTech project: [Taboo AI](https://taboo-ai.com/)
 ---
 
 <br />
@@ -121,7 +121,7 @@
 |                                                                                                                Name                                                                                                                 | Description                                                                                                                                                                                 |                           Link                           | Remarks                                                                                                                                                          |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                                                                                                      🧑🏻 **Personal website**                                                                                                       | My little digital playground                                                                                                                                                                                    |          [🔮 portal 👈🏻](https://liyuxuan.dev/)           |                                                                                                                                                                  |
-| 🤖 **Taboo AI** | EdTech AI game where you play the Game of Taboo against AI to practice your English                                                                           |       [🔮 portal 👈🏻](https://taboo-ai.vercel.app/)       |                                                           |
+| 🤖 **Taboo AI** | EdTech AI game where you play the Game of Taboo against AI to practice your English                                                                           |       [🔮 portal 👈🏻](https://taboo-ai.com/)       |                                                           |
 |                                                                                                       💦 **Drink More Water**                                                                                                       | A gamified web app to encourage you to drink more water!                                                                                                                                    |    [🔮 portal 👈🏻](https://drinkmorewater.vercel.app)     |                                                                                                                                                                  |
 |                                                                                                             📅 **ergo**                                                                                                             | A task manager with reward system                                                                                                                                                           |        [🔮 portal 👈🏻](https://liyuxuan.dev/ergo/)        |                                                                                                                                                                  |
 |                                                                                                       📝 **Resume Generator**                                                                                                       | Auto generate your resume!                                                                                                                                                                  | [🔮 portal 👈🏻](https://liyuxuan.dev/resume-generator/#/) | Test Account: 👤: test@mail.com 🔑: 123456                                                                                                                       |
