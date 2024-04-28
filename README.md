@@ -5,7 +5,7 @@
 <a
   href="https://github.com/xmliszt"
   aria-label="Visit my GitHub Profile Here"
-  target="_blank" 
+  target="_blank"
   ><img
     src="https://img.shields.io/badge/-My%20GitHub-black?logo=github"
     alt="My GitHub Chip"
@@ -13,14 +13,14 @@
 <a href="https://read.cv/liyuxuan"
   aria-label="Visit my read.cv profile here"
   target="_blank"
-  ><img 
+  ><img
     src="https://img.shields.io/badge/-read.cv-black?logo=read.cv"
     alt="read.cv chip"
 /></a>
 <a
   href="https://www.linkedin.com/in/li-yuxuan/"
   aria-label="Visit my LinkedIn Profile Here"
-  target="_blank" 
+  target="_blank"
   ><img
     src="https://img.shields.io/badge/-My%20LinkedIn-black?logo=linkedin"
     alt="My LinkedIn Chip"
@@ -28,7 +28,7 @@
 <a
   href="https://www.reddit.com/user/bubbling-fish"
   aria-label="Visit my Reddit Profile Here"
-  target="_blank" 
+  target="_blank"
   ><img
     src="https://img.shields.io/badge/-u%2Fbubbling--fish-black?logo=reddit"
     alt="My Reddit Chip"
@@ -36,7 +36,7 @@
 <a
   href="https://twitter.com/xmliszt"
   aria-label="Visit my Twitter Profile Here"
-  target="_blank" 
+  target="_blank"
   ><img
     src="https://img.shields.io/badge/-My%20Twitter-black?logo=twitter"
     alt="My Twitter Chip"
@@ -44,7 +44,7 @@
 <a
   href="https://www.facebook.com/liszt.li.7"
   aria-label="Visit my Facebook Profile Here"
-  target="_blank" 
+  target="_blank"
   ><img
     src="https://img.shields.io/badge/-My%20Facebook-black?logo=facebook"
     alt="My Facebook Chip"
@@ -52,7 +52,7 @@
 <a
   href="https://www.instagram.com/xmliszt/"
   aria-label="Visit my Instagram Profile Here"
-  target="_blank" 
+  target="_blank"
   ><img
     src="https://img.shields.io/badge/-My%20Instagram-black?logo=instagram"
     alt="My Instagram Chip"
@@ -60,7 +60,7 @@
   <a
   href="https://www.npmjs.com/~xmliszt"
   aria-label="Visit my NPM Packages Profile Here"
-    target="_blank" 
+    target="_blank"
   ><img
     src="https://img.shields.io/badge/-NPM%20packages-white?logo=npm"
     alt="My NPM Packages Chip"
@@ -87,7 +87,7 @@
 <div align='center'>
   <div>
     <a href='https://liyuxuan.dev' target='_blank'>
-      <img style='border-radius: "16px"' width='600px' src='https://tvstbbuidvwgelgidaqy.supabase.co/storage/v1/object/public/profile/og.webp' />
+      <img style='border-radius: "16px"' width='600px' src='https://github.com/xmliszt/xmliszt/blob/main/profile.webp' />
     </a>
   </div>
   <div>
@@ -152,13 +152,13 @@
 Programming Languages:
 </p>
 <img src="https://img.shields.io/badge/-typescript-lightgrey?logo=typescript" alt="typescript" />
-<img src="https://img.shields.io/badge/-javascript-yellowgreen?style=flat&logo=javascript" alt="js"/> 
+<img src="https://img.shields.io/badge/-javascript-yellowgreen?style=flat&logo=javascript" alt="js"/>
 <img src="https://img.shields.io/badge/-HTML-yellow?logo=html5" alt="html"/>
 <img src="https://img.shields.io/badge/-CSS-red?logo=css3" alt="css" />
 <img src="https://img.shields.io/badge/-Swift-white?logo=swift" alt="swift" />
 <img src="https://img.shields.io/badge/-python-green?style=flat&logo=python" alt="python" />
-<img src="https://img.shields.io/badge/-java-blue?logo=java" alt="java"/> 
-<img src="https://img.shields.io/badge/-C%23-brightgreen?logo=csharp" alt="csharp"/> 
+<img src="https://img.shields.io/badge/-java-blue?logo=java" alt="java"/>
+<img src="https://img.shields.io/badge/-C%23-brightgreen?logo=csharp" alt="csharp"/>
 <img src="https://img.shields.io/badge/-shell-fff?logo=shell" alt="shell" />
 <img src="https://img.shields.io/badge/-PostgresSQL-blue?logo=microsoftsqlserver" alt="PostgresSQL" />
 </div>
