@@ -103,7 +103,7 @@
 - 👯 Open to collaborating on innovative projects and ideas
 - 🎹 In my free time, I read books, watch films, play music.
 - 📫 Chat with me: [me@liyuxuan.dev](mailto:me@liyuxuan.dev)
-- 💻 Working on EdTech project: [Taboo AI](https://taboo-ai.com/)
+- 💻 Working on EdTech projects: [Taboo AI](https://taboo-ai.com/), [Convo](https://convo.website/)
 ---
 
 <br />
