@@ -9,16 +9,6 @@
 
 ---
 
-**[Apps](#apps)**
-
-[Taboo AI](#taboo-ai) | [Convo](#convo)
-
-**[Games](#games)**
-
-[Costume Party](#costume-party) | [Mario Infinity](#mario-infinity) | [Mario Defense](#mario-defense) | [Mario Final](#mario-final)
-
----
-
 ### Apps
 
 #### [Taboo AI](https://taboo-ai.com)
