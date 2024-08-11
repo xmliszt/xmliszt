@@ -1,9 +1,6 @@
-<div>
-  <h1>Hi! I'm Li Yuxuan</h1>
-  <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxmliszt&label=Visitors&countColor=%23000000' style="border-radius: 10px; border: 1px white solid;" />
-</div>
+# Hi! I'm Li Yuxuan
 
-[🔮 Click to enter my digital space...](https://liyuxuan.dev)
+#### [🔮 Click to enter my digital space...](https://liyuxuan.dev)
 
 ---
 
@@ -80,17 +77,17 @@ Platformer game inspired by the Mario franchise. School project.
 
 ### Links
 
-#### [gitHub](https://github.com/xmliszt)
+#### [Github](https://github.com/xmliszt)
 
-#### [read.cv](https://read.cv/liyuxuan)
+#### [Read.cv](https://read.cv/liyuxuan)
 
-#### [linkedIn](https://www.linkedin.com/in/li-yuxuan/)
+#### [LinkedIn](https://www.linkedin.com/in/li-yuxuan/)
 
-#### [twitter](https://twitter.com/xmliszt)
+#### [Twitter](https://twitter.com/xmliszt)
 
-#### [facebook](https://www.facebook.com/liszt.li.7)
+#### [Facebook](https://www.facebook.com/liszt.li.7)
 
-#### [npm registry](https://www.npmjs.com/~xmliszt)
+#### [NPM registry](https://www.npmjs.com/~xmliszt)
 
 ---
 
@@ -102,4 +99,9 @@ Platformer game inspired by the Mario franchise. School project.
   <a href="https://github.com/xmliszt" target="_blank">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xmliszt&theme=graywhite" style="width: 100%; max-width: 32rem; border-radius: 16px;" />
   </a>
+</div>
+
+<br />
+<div align="center">
+  <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxmliszt&label=Visitors&countColor=%23000000' style="border-radius: 10px; border: 1px white solid;" />
 </div>
