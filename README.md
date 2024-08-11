@@ -1,7 +1,9 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3>Hi! I'm Li Yuxuan</h3>
-  <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxmliszt&label=Visitors&countColor=%23000000' style="border-radius: 10px; border: 1px white solid;" />
-</div>
+<html>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <h3>Hi! I'm Li Yuxuan</h3>
+    <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxmliszt&label=Visitors&countColor=%23000000' style="border-radius: 10px; border: 1px white solid;" />
+  </div>
+</html>
 
 ---
 
