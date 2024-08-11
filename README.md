@@ -26,12 +26,12 @@
 EdTech gamified learning platform for English vocabulary and expression.
 
 <div>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">NextJS</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Tailwind CSS</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Supabase</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">TypeScript</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Shadcn UI</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Vercel</span>
+  <img src="https://img.shields.io/badge/NextJS-black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-black" />
+  <img src="https://img.shields.io/badge/Supabase-black" />
+  <img src="https://img.shields.io/badge/TypeScript-black" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-black" />
+  <img src="https://img.shields.io/badge/Vercel-black" />
 </div>
 
 #### [Convo](https://convo.website)
@@ -39,12 +39,13 @@ EdTech gamified learning platform for English vocabulary and expression.
 Scenarios-based language learning platform for English conversation.
 
 <div>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">NextJS</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Tailwind CSS</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Supabase</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">TypeScript</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Shadcn UI</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Vercel</span>
+  <img src="https://img.shields.io/badge/NextJS-black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-black" />
+  <img src="https://img.shields.io/badge/Supabase-black" />
+  <img src="https://img.shields.io/badge/TypeScript-black" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-black" />
+  <img src="https://img.shields.io/badge/Vercel-black" />
+</div>
 
 ---
 
@@ -55,9 +56,9 @@ Scenarios-based language learning platform for English conversation.
 Online web-based multiplayer party game based on the popular board game [Costume Party Detectives](https://boardgamegeek.com/boardgame/232353/costume-party-detective).
 
 <div>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">VueJS</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Element UI</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Firebase</span>
+  <img src="https://img.shields.io/badge/VueJS-black" />
+  <img src="https://img.shields.io/badge/Element_UI-black" />
+  <img src="https://img.shields.io/badge/Firebase-black" />
 </div>
 
 #### [Mario Infinity](https://xmliszt.itch.io/mario-infinity)
@@ -65,8 +66,8 @@ Online web-based multiplayer party game based on the popular board game [Costume
 Infinite runner game based on the popular Mario franchise. School project.
 
 <div>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Unity</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">C#</span>
+  <img src="https://img.shields.io/badge/Unity-black" />
+  <img src="https://img.shields.io/badge/C%23-black" />
 </div>
 
 #### [Mario Defense](https://xmliszt.itch.io/mario-defense)
@@ -74,8 +75,8 @@ Infinite runner game based on the popular Mario franchise. School project.
 Tower defense game inspired by Angry Birds and the Mario franchise. School project.
 
 <div>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Unity</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">C#</span>
+  <img src="https://img.shields.io/badge/Unity-black" />
+  <img src="https://img.shields.io/badge/C%23-black" />
 </div>
 
 #### [Mario Final](https://xmliszt.itch.io/mario-final)
@@ -83,8 +84,8 @@ Tower defense game inspired by Angry Birds and the Mario franchise. School proje
 Platformer game inspired by the Mario franchise. School project.
 
 <div>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">Unity</span>
-  <span style="background-color: black; color: white; padding: 0.2rem 0.5rem; border-radius: 0.2rem; font-size: 12px;">C#</span>
+  <img src="https://img.shields.io/badge/Unity-black" />
+  <img src="https://img.shields.io/badge/C%23-black" />
 </div>
 
 ---
