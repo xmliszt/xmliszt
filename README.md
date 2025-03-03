@@ -6,6 +6,18 @@
 
 ### Apps
 
+#### [Lumon Industries](https://lumon-industries.work)
+
+A clone of the Macro Data Refinement work station in Lumon Industries, from the popular TV series "Severance".
+
+<div>
+  <img src="https://img.shields.io/badge/NextJS-black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-black" />
+  <img src="https://img.shields.io/badge/TypeScript-black" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-black" />
+  <img src="https://img.shields.io/badge/Vercel-black" />
+</div>
+
 #### [Taboo AI](https://taboo-ai.com)
 
 EdTech gamified learning platform for English vocabulary and expression.
