@@ -6,7 +6,7 @@
 
 ### Apps
 
-#### [Lumon Industries](https://lumon-industries.work)
+#### [Lumon Industries - Macro Data Refinement](https://lumon-industries.work)
 
 A clone of the Macro Data Refinement work station in Lumon Industries, from the popular TV series "Severance".
 
