@@ -31,7 +31,7 @@ EdTech gamified learning platform for English vocabulary and expression.
   <img src="https://img.shields.io/badge/Vercel-black" />
 </div>
 
-#### [Convo](https://convo.website)
+#### [Convo AI](https://convo-ai.cc/)
 
 Scenarios-based language learning platform for English conversation.
 
@@ -91,13 +91,9 @@ Platformer game inspired by the Mario franchise. School project.
 
 #### [Github](https://github.com/xmliszt)
 
-#### [Read.cv](https://read.cv/liyuxuan)
-
 #### [LinkedIn](https://www.linkedin.com/in/li-yuxuan/)
 
 #### [Twitter](https://twitter.com/xmliszt)
-
-#### [Facebook](https://www.facebook.com/liszt.li.7)
 
 #### [NPM registry](https://www.npmjs.com/~xmliszt)
 
