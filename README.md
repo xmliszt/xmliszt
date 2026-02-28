@@ -104,9 +104,6 @@ Platformer game inspired by the Mario franchise. School project.
       <img src="https://github-stats-alpha.vercel.app/api?username=xmliszt&cc=fff&tc=000&ic=424242" style="width: 100%; max-width: 32rem; border-radius: 16px;"
        />
   </a>
-  <a href="https://github.com/xmliszt" target="_blank">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xmliszt&theme=graywhite" style="width: 100%; max-width: 32rem; border-radius: 16px;" />
-  </a>
 </div>
 
 <br />
