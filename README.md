@@ -1,10 +1,22 @@
 # Hi! I'm Li Yuxuan
 
-#### [🔮 Click to enter my digital space...](https://liyuxuan.dev)
+#### [🔮 Enter my digital space here...](https://liyuxuan.dev)
 
 ---
 
-### Apps
+### App
+
+#### [Joodle: Journaling With Doodle](https://apps.apple.com/us/app/joodle-journaling-with-doodle/id6756204776)
+
+A private visual daily journal for capturing moments, moods, and memories in seconds, with doodles.
+
+<div>
+  <img src="https://img.shields.io/badge/iOS-black" />
+  <img src="https://img.shields.io/badge/SwiftUI-black" />
+</div>
+
+
+### Web
 
 #### [Lumon Industries - Macro Data Refinement](https://lumon-industries.work)
 
